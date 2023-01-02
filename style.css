@@ -3,6 +3,12 @@
   padding: 0px;
   box-sizing: border-box;
 }
+body{
+    height: 100vh;
+    background-image: url(./pexels-ryan-klaus-11898886.jpg);
+    background-size:  cover;
+    background-position: center;
+}
 
 nav {
   display: flex;
